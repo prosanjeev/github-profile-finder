@@ -1,3 +1,9 @@
+
+![Github Profile Finder](https://github.com/prosanjeev/github-profile-finder/assets/154009697/90726a43-e062-40ef-8f3e-a042bbda3e8d)
+
+# Check Demo
+https://prosanjeev.github.io/github-profile-finder/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
